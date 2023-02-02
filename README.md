@@ -1,5 +1,5 @@
 # todo-vue
-
+![Alt text](https://github.com/Solomon-Mithra-Kennect/todo-vue/tree/main/src/assets.png)
 ## Project setup
 ```
 npm install
